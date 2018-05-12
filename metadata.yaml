@@ -1,0 +1,33 @@
+_repo: Ranskalaisia-kansansatuja-ja-tarinoita_36863
+_version: 0.1.0
+alternative_title: Légendes rustiques. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2011-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36863'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- France'
+- !lcsh 'Legends -- France'
+- !lcc 'PQ'
+title: Ranskalaisia kansansatuja ja tarinoita
+url: http://www.gutenberg.org/ebooks/36863
