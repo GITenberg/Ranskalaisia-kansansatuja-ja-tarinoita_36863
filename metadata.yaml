@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/851
     wikipedia: http://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36863#Ranskalaisia-kansansatuja-ja-tarinoita
 gutenberg_issued: '2011-07-26'
 gutenberg_type: Text
 identifiers:
